@@ -1,4 +1,4 @@
-# 💻 ThinkCentre M73 / NEC4 H81 黑苹果 EFI 引导
+# 💻 ThinkCentre M73 / NEC4 黑苹果 EFI 引导
 
 本仓库提供联想 ThinkCentre M73 及同配置 NEC4 的黑苹果 OpenCore (OC) 引导配置文件。
 
